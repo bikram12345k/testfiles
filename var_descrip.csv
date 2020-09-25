@@ -24,4 +24,4 @@ avg.ed,average parental education level
 full,percent fully qualified teachers
 emer,percent teachers with emergency qualifications
 enroll,number of students enrolled
-api.stu,number of students tested.
+api.stu,number of students tested
